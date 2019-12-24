@@ -1,0 +1,296 @@
+2019-12-23 18:43:54,329 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-12-24 17:05:44,306 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-24 17:06:47,936 [Worker-7: Launching MainClass (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:47,940 [Worker-7: Launching MainClass (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:06:47,945 [Worker-7: Launching MainClass (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:47,946 [Worker-7: Launching MainClass (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace_spring_basic/SpringProjectEx3/src/test/resources
+2019-12-24 17:06:48,531 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,532 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:06:48,534 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,534 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace_spring_basic/SpringProjectEx2/src/test/resources
+2019-12-24 17:06:48,610 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,611 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:06:48,612 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,612 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace_spring_basic/springProjectEx/src/test/resources
+2019-12-24 17:06:48,673 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,673 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-24 17:06:48,674 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,674 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace_spring_basic/spring_2_2_ex1_springex/src/test/resources
+2019-12-24 17:06:48,727 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,727 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-24 17:06:48,728 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,728 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_3_1_ex1_springex/src/test/resources
+2019-12-24 17:06:48,798 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,798 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:06:48,800 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,800 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_3_1_ex2_springex/src/test/resources
+2019-12-24 17:06:48,894 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,895 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:06:48,896 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,896 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_04_sourcecode/src/test/resources
+2019-12-24 17:06:48,974 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,975 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:06:48,977 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:48,978 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_05_sourcecode/spring_5_2_ex1_springex/src/test/resources
+2019-12-24 17:06:49,069 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:49,069 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-24 17:06:49,071 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:49,071 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_1_ex1_springex/src/test/resources
+2019-12-24 17:06:49,140 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:49,141 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-24 17:06:49,141 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:49,141 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_2_ex1_springex/src/test/resources
+2019-12-24 17:06:49,195 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:49,195 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:06:49,196 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:49,196 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_3_ex1_springex/src/test/resources
+2019-12-24 17:06:49,252 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:49,252 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:06:49,254 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:06:49,254 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_07_sourcecode/spring_7_1_ex1_springex/src/test/resources
+2019-12-24 17:11:26,124 [ModalContext] ERROR o.e.m.c.i.p.r.ProjectRegistryReader - Can't write workspace state
+java.io.FileNotFoundException: /Users/sukjunelee/eclipse-workspace_spring_basic/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_212]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[na:1.8.0_212]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[na:1.8.0_212]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[na:1.8.0_212]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryReader.writeWorkspaceState(ProjectRegistryReader.java:128) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.writeWorkspaceState(ProjectRegistryManager.java:990) [org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.MavenPluginActivator$1.saving(MavenPluginActivator.java:147) [org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:387) [org.eclipse.core.resources_3.13.600.v20191122-2104.jar:na]
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:204) [org.eclipse.core.resources_3.13.600.v20191122-2104.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.600.v20191004-1420.jar:na]
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:207) [org.eclipse.core.resources_3.13.600.v20191122-2104.jar:na]
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1164) [org.eclipse.core.resources_3.13.600.v20191122-2104.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2333) [org.eclipse.core.resources_3.13.600.v20191122-2104.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$1(IDEWorkbenchAdvisor.java:509) [org.eclipse.ui.ide.application_1.3.500.v20191122-2109.jar:na]
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122) ~[org.eclipse.jface_3.18.0.v20191122-2109.jar:na]
+2019-12-24 17:12:14,198 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-24 17:12:17,429 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:17,432 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:12:17,439 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:17,439 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/SpringProjectEx2/src/test/resources
+2019-12-24 17:12:17,715 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:17,716 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:12:17,717 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:17,717 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/SpringProjectEx3/src/test/resources
+2019-12-24 17:12:17,806 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:17,807 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:12:17,808 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:17,809 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/springProjectEx/src/test/resources
+2019-12-24 17:12:17,901 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:17,901 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-24 17:12:17,903 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:17,903 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/spring_2_2_ex1_springex/src/test/resources
+2019-12-24 17:12:18,028 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,029 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-24 17:12:18,030 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,030 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_3_1_ex1_springex/src/test/resources
+2019-12-24 17:12:18,118 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,119 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:12:18,120 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,120 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_3_1_ex2_springex/src/test/resources
+2019-12-24 17:12:18,227 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,228 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:12:18,230 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,230 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_04_sourcecode/src/test/resources
+2019-12-24 17:12:18,338 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,338 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:12:18,342 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,342 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_05_sourcecode/spring_5_2_ex1_springex/src/test/resources
+2019-12-24 17:12:18,456 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,456 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-24 17:12:18,459 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,459 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_1_ex1_springex/src/test/resources
+2019-12-24 17:12:18,560 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,560 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-24 17:12:18,562 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,562 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_2_ex1_springex/src/test/resources
+2019-12-24 17:12:18,645 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,645 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:12:18,647 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,647 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_3_ex1_springex/src/test/resources
+2019-12-24 17:12:18,713 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,713 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:12:18,714 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:12:18,715 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_07_sourcecode/spring_7_1_ex1_springex/src/test/resources
+2019-12-24 17:14:30,051 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-24 17:14:30,351 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:spring_3_1_ex1_springex:0.0.1-SNAPSHOT @ /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_3_1_ex2_springex/pom.xml.
+2019-12-24 17:14:30,382 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:spring_6_2_ex1_springex:0.0.1-SNAPSHOT @ /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_2_ex1_springex/pom.xml.
+2019-12-24 17:14:30,393 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringProjectEx2:0.0.1-SNAPSHOT @ /Users/sukjunelee/eclipse-workspace/SpringProjectEx2/pom.xml.
+2019-12-24 17:14:30,408 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:SpringProjectEx3:0.0.1-SNAPSHOT @ /Users/sukjunelee/eclipse-workspace/SpringProjectEx3/pom.xml.
+2019-12-24 17:14:30,421 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:spring_5_2_ex1_springex:0.0.1-SNAPSHOT @ /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_05_sourcecode/spring_5_2_ex1_springex/pom.xml.
+2019-12-24 17:14:30,434 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:spring_7_1_ex1_springex:0.0.1-SNAPSHOT @ /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_07_sourcecode/spring_7_1_ex1_springex/pom.xml.
+2019-12-24 17:14:30,447 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:spring_6_3_ex1_springex:0.0.1-SNAPSHOT @ /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_3_ex1_springex/pom.xml.
+2019-12-24 17:14:30,462 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:spring_3_1_ex1_springex:0.0.1-SNAPSHOT @ /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_3_1_ex1_springex/pom.xml.
+2019-12-24 17:14:30,475 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:spring_2_2_ex1_springex:0.0.1-SNAPSHOT @ /Users/sukjunelee/eclipse-workspace/spring_2_2_ex1_springex/pom.xml.
+2019-12-24 17:14:30,488 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:spring_4_1_ex1_springex:0.0.1-SNAPSHOT @ /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_04_sourcecode/pom.xml.
+2019-12-24 17:14:30,500 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:spring_6_1_ex1_springex:0.0.1-SNAPSHOT @ /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_1_ex1_springex/pom.xml.
+2019-12-24 17:14:30,512 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:springProjectEx:0.0.1-SNAPSHOT @ /Users/sukjunelee/eclipse-workspace/springProjectEx/pom.xml.
+2019-12-24 17:14:30,736 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_2_2_ex1_springex/src/main/java
+2019-12-24 17:14:30,736 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_2_2_ex1_springex/src/main/resources
+2019-12-24 17:14:30,737 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_2_2_ex1_springex/src/test/java
+2019-12-24 17:14:30,791 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_3_1_ex1_springex/src/main/java
+2019-12-24 17:14:30,791 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_3_1_ex1_springex/src/main/resources
+2019-12-24 17:14:30,791 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_3_1_ex1_springex/src/test/java
+2019-12-24 17:14:30,832 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_3_1_ex2_springex/src/main/java
+2019-12-24 17:14:30,832 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_3_1_ex2_springex/src/main/resources
+2019-12-24 17:14:30,832 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_3_1_ex2_springex/src/test/java
+2019-12-24 17:14:30,867 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_4_1_ex1_springex/src/main/java
+2019-12-24 17:14:30,867 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_4_1_ex1_springex/src/main/resources
+2019-12-24 17:14:30,868 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_4_1_ex1_springex/src/test/java
+2019-12-24 17:14:30,898 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_5_2_ex1_springex/src/main/java
+2019-12-24 17:14:30,898 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_5_2_ex1_springex/src/main/resources
+2019-12-24 17:14:30,899 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_5_2_ex1_springex/src/test/java
+2019-12-24 17:14:30,928 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_6_1_ex1_springex/src/main/java
+2019-12-24 17:14:30,928 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_6_1_ex1_springex/src/main/resources
+2019-12-24 17:14:30,928 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_6_1_ex1_springex/src/test/java
+2019-12-24 17:14:30,958 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_6_2_ex1_springex/src/main/java
+2019-12-24 17:14:30,958 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_6_2_ex1_springex/src/main/resources
+2019-12-24 17:14:30,959 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_6_2_ex1_springex/src/test/java
+2019-12-24 17:14:30,993 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_6_3_ex1_springex/src/main/java
+2019-12-24 17:14:30,993 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_6_3_ex1_springex/src/main/resources
+2019-12-24 17:14:30,993 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_6_3_ex1_springex/src/test/java
+2019-12-24 17:14:31,026 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_7_1_ex1_springex/src/main/java
+2019-12-24 17:14:31,026 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_7_1_ex1_springex/src/main/resources
+2019-12-24 17:14:31,026 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_7_1_ex1_springex/src/test/java
+2019-12-24 17:14:31,057 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springProjectEx/src/main/java
+2019-12-24 17:14:31,057 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springProjectEx/src/main/resources
+2019-12-24 17:14:31,057 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springProjectEx/src/test/java
+2019-12-24 17:14:31,087 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringProjectEx2/src/main/java
+2019-12-24 17:14:31,088 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringProjectEx2/src/main/resources
+2019-12-24 17:14:31,088 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringProjectEx2/src/test/java
+2019-12-24 17:14:31,117 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringProjectEx3/src/main/java
+2019-12-24 17:14:31,117 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringProjectEx3/src/main/resources
+2019-12-24 17:14:31,117 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringProjectEx3/src/test/java
+2019-12-24 17:14:31,379 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-24 17:14:31,531 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,531 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:14:31,536 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,536 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/SpringProjectEx2/src/test/resources
+2019-12-24 17:14:31,649 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,649 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:14:31,650 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,650 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/SpringProjectEx3/src/test/resources
+2019-12-24 17:14:31,685 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,685 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:14:31,686 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,686 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/springProjectEx/src/test/resources
+2019-12-24 17:14:31,723 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,723 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-24 17:14:31,724 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,724 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/spring_2_2_ex1_springex/src/test/resources
+2019-12-24 17:14:31,763 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,763 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-24 17:14:31,763 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,763 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_3_1_ex1_springex/src/test/resources
+2019-12-24 17:14:31,805 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,805 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:14:31,807 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,807 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_3_1_ex2_springex/src/test/resources
+2019-12-24 17:14:31,868 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,868 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:14:31,869 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,870 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_04_sourcecode/src/test/resources
+2019-12-24 17:14:31,913 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,914 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:14:31,916 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,916 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_05_sourcecode/spring_5_2_ex1_springex/src/test/resources
+2019-12-24 17:14:31,974 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,974 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-24 17:14:31,976 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:31,976 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_1_ex1_springex/src/test/resources
+2019-12-24 17:14:32,024 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:32,024 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-24 17:14:32,025 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:32,025 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_2_ex1_springex/src/test/resources
+2019-12-24 17:14:32,072 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:32,073 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:14:32,074 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:32,074 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_3_ex1_springex/src/test/resources
+2019-12-24 17:14:32,120 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:32,120 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:14:32,121 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:14:32,121 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_07_sourcecode/spring_7_1_ex1_springex/src/test/resources
+2019-12-24 17:16:51,354 [Worker-38: Launching MainClass (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:16:51,358 [Worker-38: Launching MainClass (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:16:51,359 [Worker-38: Launching MainClass (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:16:51,359 [Worker-38: Launching MainClass (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/SpringProjectEx3/src/test/resources
+2019-12-24 17:17:00,633 [Worker-31: Launching MainClass (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:17:00,633 [Worker-31: Launching MainClass (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:17:00,634 [Worker-31: Launching MainClass (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:17:00,634 [Worker-31: Launching MainClass (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_05_sourcecode/spring_5_2_ex1_springex/src/test/resources
+2019-12-24 17:17:41,684 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:17:41,684 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/SpringProjectEx3/src/main/resources
+2019-12-24 17:17:41,684 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:17:41,684 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/SpringProjectEx3/src/test/resources
+2019-12-24 17:17:42,693 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:17:42,694 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/SpringProjectEx3/src/main/resources
+2019-12-24 17:17:42,695 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:17:42,695 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace/SpringProjectEx3/src/test/resources
+2019-12-24 17:17:44,786 [ModalContext] ERROR o.e.m.c.i.p.r.ProjectRegistryReader - Can't write workspace state
+java.io.FileNotFoundException: /Users/sukjunelee/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[na:1.8.0_212]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[na:1.8.0_212]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[na:1.8.0_212]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[na:1.8.0_212]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryReader.writeWorkspaceState(ProjectRegistryReader.java:128) ~[org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.writeWorkspaceState(ProjectRegistryManager.java:990) [org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.m2e.core.internal.MavenPluginActivator$1.saving(MavenPluginActivator.java:147) [org.eclipse.m2e.core_1.14.0.20191209-1925.jar:na]
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:387) [org.eclipse.core.resources_3.13.600.v20191122-2104.jar:na]
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:204) [org.eclipse.core.resources_3.13.600.v20191122-2104.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.600.v20191004-1420.jar:na]
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:207) [org.eclipse.core.resources_3.13.600.v20191122-2104.jar:na]
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1164) [org.eclipse.core.resources_3.13.600.v20191122-2104.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2333) [org.eclipse.core.resources_3.13.600.v20191122-2104.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$1(IDEWorkbenchAdvisor.java:509) [org.eclipse.ui.ide.application_1.3.500.v20191122-2109.jar:na]
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122) ~[org.eclipse.jface_3.18.0.v20191122-2109.jar:na]
+2019-12-24 17:18:07,412 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-24 17:18:24,722 [Worker-9: Launching MainClass (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:24,726 [Worker-9: Launching MainClass (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:18:24,733 [Worker-9: Launching MainClass (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:24,733 [Worker-9: Launching MainClass (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace_spring_basic/SpringProjectEx3/src/test/resources
+2019-12-24 17:18:25,392 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,392 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:18:25,394 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,394 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace_spring_basic/SpringProjectEx2/src/test/resources
+2019-12-24 17:18:25,460 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,460 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:18:25,462 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,462 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace_spring_basic/springProjectEx/src/test/resources
+2019-12-24 17:18:25,521 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,522 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-24 17:18:25,522 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,523 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/eclipse-workspace_spring_basic/spring_2_2_ex1_springex/src/test/resources
+2019-12-24 17:18:25,572 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,572 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-24 17:18:25,573 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,573 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_3_1_ex1_springex/src/test/resources
+2019-12-24 17:18:25,633 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,633 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:18:25,635 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,635 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_3_1_ex2_springex/src/test/resources
+2019-12-24 17:18:25,694 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,695 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:18:25,698 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,698 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_04_sourcecode/src/test/resources
+2019-12-24 17:18:25,770 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,770 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:18:25,773 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,773 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_05_sourcecode/spring_5_2_ex1_springex/src/test/resources
+2019-12-24 17:18:25,837 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,838 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-24 17:18:25,839 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,839 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_1_ex1_springex/src/test/resources
+2019-12-24 17:18:25,897 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,897 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-24 17:18:25,898 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,898 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_2_ex1_springex/src/test/resources
+2019-12-24 17:18:25,956 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,957 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:18:25,958 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:25,959 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_06_sourcecode/spring_6_3_ex1_springex/src/test/resources
+2019-12-24 17:18:26,010 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:26,010 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-24 17:18:26,012 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 17:18:26,012 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sukjunelee/Desktop/spring_lecture/spring_lecture_03_sourcecode/spring_lecture_07_sourcecode/spring_7_1_ex1_springex/src/test/resources
