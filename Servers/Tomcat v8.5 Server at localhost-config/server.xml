@@ -60,7 +60,7 @@
          APR (HTTP/AJP) Connector: /docs/apr.html
          Define a non-SSL/TLS HTTP/1.1 Connector on port 8080
     -->
-    <Connector connectionTimeout="20000" port="8181" protocol="HTTP/1.1" redirectPort="8443"/>
+    <Connector connectionTimeout="20000" port="8282" protocol="HTTP/1.1" redirectPort="8443"/>
     <!-- A "Connector" using the shared thread pool-->
     <!--
     <Connector executor="tomcatThreadPool"
@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="springProjectExMVC1" path="/spring_ex_pjt" reloadable="true" source="org.eclipse.jst.jee.server:springProjectExMVC1"/><Context docBase="spring_12_1_ex1_springex" path="/ex" reloadable="true" source="org.eclipse.jst.jee.server:spring_12_1_ex1_springex"/><Context docBase="springProjectExMVC2" path="/spring_ex" reloadable="true" source="org.eclipse.jst.jee.server:springProjectExMVC2"/><Context docBase="springProjetExMVC3" path="/springEx" reloadable="true" source="org.eclipse.jst.jee.server:springProjetExMVC3"/></Host>
+      <Context docBase="spring_project_board" path="/spring_plj_board" reloadable="true" source="org.eclipse.jst.jee.server:spring_project_board"/><Context docBase="springMVCBoard" path="/springMVCBoard" reloadable="true" source="org.eclipse.jst.jee.server:springMVCBoard"/></Host>
     </Engine>
   </Service>
 </Server>
